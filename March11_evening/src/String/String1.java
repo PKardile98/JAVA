@@ -10,6 +10,8 @@ public class String1 {
 		String S2 = new String("Test"); // Heap + ref in SCP
 		String S3 = new String("Test"); // SCP
 		
+		System.out.println(" changes ");
+		
 		// Using literals
 		
 		String S4 = "Test"; // SCP

@@ -4,14 +4,12 @@ public class ClassA {
 
 	private int value;// Data hiding
 	private String Name;
-	
-	
-	
+
 	public void setvalue(int x) { // Data Abstraction
 
-		value = x;                                // Setters
+		value = x; // Setters
 	}
-	
+
 	public void setName(String S) { // Data Abstraction
 
 		Name = S;
@@ -19,9 +17,9 @@ public class ClassA {
 
 	public int getvalue() {
 
-		return value;                                   // Getters
+		return value; // Getters
 	}
-	
+
 	public String getName() {
 
 		return Name;

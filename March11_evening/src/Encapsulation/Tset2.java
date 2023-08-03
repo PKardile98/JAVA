@@ -11,7 +11,7 @@ public class Tset2 {
 		
 		System.out.println(T1.getvalue());
 		
-		T1.Setname("PArdeep");
+		T1.Setname("Pardeep");
 		
 		System.out.println(T1.getName());
 

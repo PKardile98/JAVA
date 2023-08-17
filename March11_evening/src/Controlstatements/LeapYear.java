@@ -6,7 +6,7 @@ public class LeapYear {
 		// Condition for leap year 
 		// Year should be divisible by 400 and 4 but not by 100
 
-		int Year= 2004;
+		int Year= 2000;
 		
 		if(Year%400==0) {
 			

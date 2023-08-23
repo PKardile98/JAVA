@@ -7,8 +7,12 @@ public class DUPLICATE_IN_USING_METHOD {
 		String STR ="DEEP";
 		String STR1 ="DEPP";
 		
+		String STR2 ="BBBGH";
+		
+		
 		DUPLICATE(STR);
 		DUPLICATE(STR1);
+		DUPLICATE(STR2);
 		
 
 	}

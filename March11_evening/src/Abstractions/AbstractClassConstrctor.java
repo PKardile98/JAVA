@@ -6,7 +6,7 @@ public class AbstractClassConstrctor {
 		
 		
 		
-		this(300);
+		this(300,400,900);
 		
 		
 		//System.out.println("Abstract Class Constrctor");

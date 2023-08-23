@@ -1,12 +1,10 @@
 package LOGICAL_PRO_STRING;
 
-import java.util.Arrays;
-
 public class MISSING_number {
 
 	public static void main(String[] args) {
 		
-		
+		// CHECK WETHER THE CHANGES REFLECT IN THE GIT REPO?
 		
 		int A1[]= {1,2,3,4,5,6,7,9,8,12};
 		int Size = A1.length+1; // Because one no. was missing 

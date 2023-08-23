@@ -6,7 +6,7 @@ public class DUPLICAT_IN_STRING {
 
 		String S1 = "JAVA";
 
-		char[] C1 = S1.toCharArray();
+		char C1[]  = S1.toCharArray();
 
 		for (int i = 0; i < C1.length; i++) {
 
@@ -20,5 +20,5 @@ public class DUPLICAT_IN_STRING {
 		}
 
 	}
-
+	
 }

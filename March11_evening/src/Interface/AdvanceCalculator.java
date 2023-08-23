@@ -15,7 +15,7 @@ public class AdvanceCalculator implements Calculator,Casio{
 		System.out.println("Sin Method");
 		
 	}
-	public void cos() {
+	public void cos() { // Methods of the advance calculator
 			
 			System.out.println("cos Method");
 			
@@ -41,16 +41,17 @@ public class AdvanceCalculator implements Calculator,Casio{
 		
 	}
 
-	@Override
-	public void Multiplication() {
 
-		System.out.println("Multiplication Method");
-		
-	}
 	public void Multiplication(int i) {
 
 		System.out.println("Multiplication Method");
 		
+	}
+
+	@Override
+	public void Multiplication() {
+		
+		System.out.println("Multiplication Method");
 	}
 	
 	

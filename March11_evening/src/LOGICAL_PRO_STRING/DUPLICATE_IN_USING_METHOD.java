@@ -14,6 +14,9 @@ public class DUPLICATE_IN_USING_METHOD {
 		DUPLICATE(STR1);
 		DUPLICATE(STR2);
 		
+		
+		System.out.println("NEW changes added to the code");
+		
 
 	}
 	

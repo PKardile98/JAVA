@@ -5,6 +5,7 @@ public class DUPLICATE_IN_ARRAY {
 	public static void main(String[] args) {
 		
 		
+		System.out.println("NEW CHANGES");
 		int ARR[]= {1,2,3,2,4};
 		
 		for(int i=0; i<ARR.length;i++) {
